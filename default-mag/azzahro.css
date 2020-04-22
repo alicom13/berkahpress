@@ -30,3 +30,6 @@ h2.widget-title:before{
 .widget h2:after, .widget .widget-title:after {
   display: none;
 }
+.desktop .twp-main-menu > ul > li > a {
+	color:#fff;
+}
