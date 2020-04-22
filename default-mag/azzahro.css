@@ -25,6 +25,7 @@ h2.widget-title:before{
 	border-bottom:1px solid gold;
 	background:none;
 	margin-right: 15px;
+	padding-left:0;
 }
 .widget h2:after, .widget .widget-title:after {
   display: none;
